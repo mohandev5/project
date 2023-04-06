@@ -19,6 +19,10 @@ public class Sum_of_array {
 		}
          System.out.println("sum of array is:"+sum);
          sc.close();
+         
+         // comments for modification
+//anand has changed
+		 //add some comments
 	}
 
 }
